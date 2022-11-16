@@ -1,0 +1,15 @@
+{
+  "name": "com.ordinarygizmos.gizmotools",
+  "displayName": "OrdinaryGizmos GizmoTools",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "Internal tools that OrdinaryGizmos uses in their projects",
+  "hideInEditor": false,
+  "keywords": [
+    "tools",
+	"utility"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  }
+}
